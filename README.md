@@ -1,11 +1,11 @@
 Hi 👋 My name is Jakub Tokarczyk
 ================================
 
-👨‍💻 C# Developer in .NET, specializing in backend development. Coding with passion, striving for elegance in solutions. Open to learning and collaboration. 💻🚀 #CSharp #DotNet #BackendDeveloper
+👨‍💻 C# Developer in .NET, coding with passion, striving for elegance in solutions. Open to learning and collaboration. 💻🚀 #CSharp #DotNet #BackendDeveloper
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 * ✉️  You can contact me at [jakub.tokarczyk00@outlook.com](mailto:jakub.tokarczyk00@outlook.com)
-* 🧠  I'm learning Blazor WebAssembly
+* 🧠  I'm learning React JS
 
 ### Skills
 
