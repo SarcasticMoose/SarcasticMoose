@@ -1,10 +1,8 @@
 <p align="center">
-  <a href="https://github.com/SarcasticMoose"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1&pause=1000&color=7E3DC5&center=true&vCenter=true&repeat=false&random=false&width=440&height=45&lines=Jakub+Tokarczyk" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=A34FFF&repeat=false&random=false&width=435&lines=Jakub+Tokarczyk" alt="Typing SVG" /></a>
 </p>
 <p align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7E3DC5&center=true&vCenter=true&random=false&width=500&height=45&lines=.Net+Developer;Coding+with+passion;Open+to+learning+and+collaboration." alt="Typing SVG" />
-    </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A34FFF&random=false&width=435&lines=.NET+Developer;Coding+with+passion;Open+to+learning" alt="Typing SVG" /></a>
 </p>
 
 ### Technology I Use
