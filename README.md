@@ -1,17 +1,46 @@
-<p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=A34FFF&center=true&vCenter=true&repeat=false&random=false&width=500&height=55&lines=Jakub+Tokarczyk" alt="Typing SVG" /></a>
-</p>
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A34FFF&center=true&vCenter=true&random=false&width=500&height=55&lines=.NET+Developer;Coding+with+passion;Open+to+learning" alt="Typing SVG" /></a>
-</p>
+## 👋 About Me
 
-### Technology I Use
+💻 **.NET Developer** focused on building clean, maintainable, and efficient applications.  
+🧠 Strong interest in **software architecture**, **desktop applications**, and **low-level system design**.  
+🚀 Always improving my skills and open to learning new technologies.
+
+- 🎯 Main stack: **C# / .NET**
+- 🛠️ Interested in: **Desktop apps, libraries, system-level tools**
+- 📚 Currently improving: **architecture, performance, clean code**
+
+## 🧰 Tech Stack
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,git,websocket,rabbitmq,sqlserver"
+    />
+  </a>
+</p>
+
+### ⚙️ Tools & Concepts
+- .NET (Core / Framework)
+- Object-Oriented Programming (OOP)
+- SOLID principles
+- Design Patterns
+
+## 📌 Featured Projects
+
+🔹 **[Mcda Toolkit #1](https://github.com/SarcasticMoose/mcda-toolkit)**  
+The MCDA Toolkit is a lightweight .NET tool designed for Multi-Criteria Decision Analysis (MCDA)
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/jakub-tokarczyk/" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
+  </a>
+   <a href="mailto:jakub.tokarczyk00@outlook.com" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=outlook">
+  </a>
 </p>
 
 
-### Socials
-
-<p align="left"> <a href="https://www.linkedin.com/in/jakub-tokarczyk/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="center">
+  <i>"Clean code is not written by accident."</i>
+</p>
